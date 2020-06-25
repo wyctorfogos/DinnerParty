@@ -1,0 +1,10 @@
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\obj\Debug\Dinner_Party.csprojAssemblyReference.cache
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\obj\Debug\Dinner_Party.Form1.resources
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Properties.Resources.resources
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\obj\Debug\Dinner_Party.csproj.GenerateResource.cache
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\obj\Debug\Dinner_Party.csproj.CoreCompileInputs.cache
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe.config
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.pdb
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.exe
+C:\Users\Wyctor\Desktop\Projetos_MVS\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.pdb
